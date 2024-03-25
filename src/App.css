@@ -2,31 +2,30 @@ body {
   background: linear-gradient(15deg white,blue);
   color: blue;
   border: transparent;
-  margin: 0; /* Added to reset default margin */
+  margin: 0; 
 }
 
 .header {
-  margin: 30px auto; /* Centering the header */
+  margin: 30px auto; 
   text-align: center;
   color: blue;
 }
 
 .buttons-container {
-  margin: 30px auto; /* Centering the buttons container */
+  margin: 30px auto; 
   border-radius: 30px;
   padding: 20px;
   display: flex;
-  flex-wrap: wrap; /* Allowing buttons to wrap on smaller screens */
-  justify-content: space-around; /* Adjusted to space-around for better responsiveness */
+  flex-wrap: wrap; 
+  justify-content: space-around; 
   align-items: center;
   border: 1px solid;
 }
 
 .buttons-container a {
-  margin: 10px; /* Adjusted margin for better spacing on smaller screens */
+  margin: 10px;
   border-radius: 30px;
-  padding: 15px 20px; /* Adjusted padding for better spacing on smaller screens */
-  border: transparent;
+  padding: 15px 20px; 
   font-weight: 400;
   color: blue;
 }
@@ -140,7 +139,7 @@ button {
   color: #e91515;
 }
 
-/* Media Queries for Responsive Design */
+
 
 @media screen and (max-width: 768px) {
   .buttons-container {
