@@ -10,7 +10,7 @@ export const Database = [
   },
   {
     id: 4,
-    name: "Naruto Uzumaki",
+    name: "Maryann Sarah",
     img: "https://plus.unsplash.com/premium_photo-1681489930334-b0d26fdb9ed8?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     info: "Frontend",
     about:"Passionate frontend developer with a keen eye for detail and a knack for crafting immersive user experiences.Proficient in HTML, CSS, and JavaScript, with expertise in modern frameworks like React and Vue.js. Dedicated to staying updated on the latest trends and technologies in web development to deliver cutting-edge solutions.",
@@ -34,7 +34,7 @@ export const Database = [
   },
   {
     id: 1,
-    name: "Edward Elric",
+    name: "Jessica Elric",
     img: "https://plus.unsplash.com/premium_photo-1666264200737-acad542a92ff?q=80&w=2728&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     info: "Frontend",
     about: "From wireframes to pixel-perfect layouts, I excel in translating design concepts into code, ensuring seamless functionality across multiple devices and browsers.",
@@ -50,7 +50,7 @@ export const Database = [
   },
   {
     id: 2,
-    name: "Sasuke Uchiha",
+    name: "Micheal Paul",
     img: "https://plus.unsplash.com/premium_photo-1689539137236-b68e436248de?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     info: "Backend",
     about: "Equipped with a strong understanding of programming languages like Python, Java, or Ruby, I collaborates closely with frontend developers and designers to bring projects to life. His expertise extends to frameworks such as Django, Flask, Spring, or Ruby on Rails, allowing him to streamline development processes and deliver scalable solutions.",
