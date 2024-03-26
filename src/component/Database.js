@@ -93,7 +93,7 @@ export const Database = [
     name: "Mary john",
     img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
     info: "Product-Design",
-    about: "Hi, I'm Sarah! Empathy is my superpower as a product designer. I thrive on understanding users' needs and crafting designs that truly resonate with them. It's not just about making things look good; it's about making them feel right",
+    about: "Hi, I'm Mary! Empathy is my superpower as a product designer. I thrive on understanding users' needs and crafting designs that truly resonate with them. It's not just about making things look good; it's about making them feel right",
     Grade: 77,
   },
   {
@@ -101,7 +101,7 @@ export const Database = [
     name: "Kelvin lamar",
     img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
     info: "Product-Design",
-    about: "Hey there, I'm Mike! Collaboration is my secret sauce as a product designer. I love bouncing ideas off teammates, working closely with developers, and bringing diverse perspectives together to create products that shine.",
+    about: "Hey there, I'm Kelvin! Collaboration is my secret sauce as a product designer. I love bouncing ideas off teammates, working closely with developers, and bringing diverse perspectives together to create products that shine.",
     Grade: 88,
   },
   {
@@ -109,7 +109,7 @@ export const Database = [
     name: "Ifunanya Stephen",
     img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
     info: "Product-Design",
-    about: "Hi, I'm Emily! Solving puzzles is my passion as a product designer. Whether it's untangling complex user flows or refining UI elements for clarity, I thrive on finding elegant solutions to tricky design challenges",
+    about: "Hi, I'm Ifunanya! Solving puzzles is my passion as a product designer. Whether it's untangling complex user flows or refining UI elements for clarity, I thrive on finding elegant solutions to tricky design challenges",
     Grade: 66,
   },
   {
@@ -117,7 +117,7 @@ export const Database = [
     name: "Uchenna Ginger",
     img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
     info: "Product-Design",
-    about: "Hey, I'm Alex! Data is my best friend in product design. I'm all about testing hypotheses, analyzing user behavior, and using insights to drive design decisions. It's not just about gut feelings; it's about data-driven design at its finest",
+    about: "Hey, I'm Uchenna! Data is my best friend in product design. I'm all about testing hypotheses, analyzing user behavior, and using insights to drive design decisions. It's not just about gut feelings; it's about data-driven design at its finest",
     Grade: 59,
   },
 ];
